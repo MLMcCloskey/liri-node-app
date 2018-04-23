@@ -8,4 +8,4 @@ Give it a try!
 
 (API keys and user authentication hidden within environmental variables)
 
-![alt text](https://github.com/MLMcCloskey/lir-node-app/images/sample.png "sample of LIRI in action")
+![Example of LIRI in action](https://github.com/MLMcCloskey/liri-node-app/blob/master/images/sample.png "sample of LIRI in action")
